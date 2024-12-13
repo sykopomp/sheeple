@@ -11,7 +11,7 @@
             :serial t
             :components
             ((:file "packages")
-             (:file "sheeple-garbage")
+             (:file "%sheeple-garbage")
              (:file "functions")
              (:file "utils")
              (:file "backend")
